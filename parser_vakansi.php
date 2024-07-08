@@ -1,6 +1,6 @@
 <?php
 // Подключаем библиотеку PHP Simple HTML DOM Parser
-include('dom/simple_html_dom.php');
+include('Vol/simple_html_dom.php');
 
 $host = 'localhost';
 $dbname = 'OVAL';
