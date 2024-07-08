@@ -37,7 +37,7 @@ try {
         echo "ID: " . $row['id'] . "<br>";
         echo "Company: " . $row['company'] . "<br>";
         echo "Post: " . $row['post'] . "<br>";
-        echo "work_format: " . $row['work_formatl'] . "<br>";
+        echo "Work_format: " . $row['work_formatl'] . "<br>";
         echo "Other Vacancies: " . $row['other_vacancies'] . "<br><br>";
     }
 
